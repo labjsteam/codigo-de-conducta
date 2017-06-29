@@ -15,4 +15,4 @@ Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizad
 
 **Si tienes preguntas o sugerencias sobre este código de conducta, por favor contacta con uno de los organizadores.**
 
-Los organizadores de las comunidades mostradas arriba hemos desarrollado este código de conducta para gobernar los eventos y canales de comunicación respectivos. Adaptado de Node.js Madrid. 
+Los organizadores de las comunidades mostradas arriba hemos desarrollado este código de conducta para gobernar los eventos y canales de comunicación respectivos.
